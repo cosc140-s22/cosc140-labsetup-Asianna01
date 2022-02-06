@@ -12,5 +12,5 @@ I hope to explore so much, meet new peolpe, and master new skills. This is my fi
 
 ## Feedback
 
-Once you commit and push your work to Github, I'll update this section with feedback.
+Awesome.  Exploration is what it's all about, in my opinion!  So glad that you're getting into things so well so far.
 
